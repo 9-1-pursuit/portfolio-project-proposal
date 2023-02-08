@@ -18,6 +18,11 @@ This proposal will serve as a starting point for your ideas and plans.
 The following requirements must be included in your proposal:
 
 1. **Topic/Idea** -- can be a title w/ a short description
+    Topic: Fashion App
+    Description: View your favorite fashion items and add to your collection
+    View 
+
+
 
 1. **3 User Stories** minimum, describing what a user can expect to see/do when using your application
 
